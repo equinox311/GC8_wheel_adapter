@@ -1,4 +1,4 @@
-# GC8_wheel_adapter
+# GC8 Turn Signal Wheel Adapter
 
 Please do not use these files for your own resale. If you'd like to distribute this part, please contact me first... plus I'll give you the CAD files instead of 3D files.
 
